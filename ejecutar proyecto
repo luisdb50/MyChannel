@@ -1,0 +1,2 @@
+npx react-native start <----------------- Iniciar metro server
+npx react-native run-android <----------- Construir aplicacion en emulador o dispositivo
